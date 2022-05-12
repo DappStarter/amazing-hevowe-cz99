@@ -1,0 +1,12 @@
+{
+    "name": "Dashbard",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/react": true,
+        "/category/access_control/core-contract_access": true,
+        "/category/collection/core-entity": true,
+        "/category/access_control/core-contract_runstate": true,
+        "/category/access_control/core-administrator_role": true
+    }
+}
